@@ -29,7 +29,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 
     /* cria um fundo em gradiente (degradê) */
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #E3FFFC, #52A8A1);
 
     /* altura mínima da tela = 100% da viewport */
     min-height: 100vh;
@@ -57,7 +57,7 @@ body {
     width: 100%;
 
     /* fundo branco */
-    background: white;
+    background: #F5FDFF;
 
     /* espaço interno */
     padding: 30px;
@@ -96,7 +96,7 @@ h1 {
 .cat-area {
 
     /* fundo da área da imagem */
-    background: #f5f5f5;
+    background: #97CEDB;
 
     /* cantos arredondados */
     border-radius: 15px;
@@ -201,7 +201,7 @@ button {
     border-radius: 8px;
 
     /* cor de fundo */
-    background: #764ba2;
+    background: #22756E;
 
     /* cor do texto */
     color: white;
@@ -217,7 +217,7 @@ button {
 button:hover {
 
     /* muda a cor quando o mouse passa por cima */
-    background: #667eea;
+    background: #52A8A1;
 }
 
 

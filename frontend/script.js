@@ -32,7 +32,7 @@ async function buscarGato(url){
 
     console.error(erro);
     breedName.textContent = 
-      "📴 servidor offline - rode: node server.js"
+      "😿 Servidor offline"
 
     catImage.src = "";
   } finally {
@@ -50,7 +50,7 @@ function buscarPorRaca(){
   const raca = breedInput.value.trim().toLowerCase();
 
   if (!raca) {
-    alert ("Digite uma raça!")
+    alert ("Por favor, digite uma raça!")
 
     return;
   }
