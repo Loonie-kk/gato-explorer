@@ -1,0 +1,6 @@
+{
+    "siames":    ["siames/1.jpg",    "siames/2.jpg",    "siames/3.jpg"],
+    "persa":      ["persa/1.jpg",      "persa/2.jpg",      "persa/3.jpg"],
+    "maine coon":   ["maine/1.jpg",   "maine/2.jpg",   "maine/3.jpg"],
+    "sphynx": ["sphynx/1.jpg", "sphynx/2.jpg", "sphynx/3.jpg"]
+}
