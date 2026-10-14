@@ -9,10 +9,10 @@ app.use(cors());
 
 app.use(
   "/fotos",
-  express.static(
-    path.join(__dirname, "data/fotos"), 
-  ),
+   express.static(path.join(__dirname, "data/fotos")
+  )
 );
+
 
 function sortear(array) {
   const i = Math.floor(Math.random() * array.length);
